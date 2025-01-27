@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#c:is_ocean",
+  "features": "<your_mod_id>:template_ocean",
+  "step": "underground_ores"
+}
